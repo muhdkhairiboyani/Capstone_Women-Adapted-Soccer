@@ -6,7 +6,7 @@
 ---
 ---
 #### Dashboard Screenshot
-![Capstone_Screenshot_3000](https://cdn.pixabay.com/photo/2023/01/31/13/01/13-01-31-81_1280.jpg)
+![Capstone_Screenshot_3000](Capstone_Screenshot_3000.jpg)
 
 #### Dataset source
 Filename: Women's Soccer Participation in High Schools

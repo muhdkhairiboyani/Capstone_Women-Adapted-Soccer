@@ -10,10 +10,10 @@
 
 #### Dataset source
 Filename: Women's Soccer Participation in High Schools \
-File type: CSV
-Column: 8
-Rows: 55,136
-Credit: Eva Murray
+File type: CSV \
+Column: 8 \
+Rows: 55,136 \
+Credit: Eva Murray \
 File link: https://www.kaggle.com/datasets/thedevastator/women-s-soccer-participation-in-high-schools-fro
 
 #### Description of Dataset

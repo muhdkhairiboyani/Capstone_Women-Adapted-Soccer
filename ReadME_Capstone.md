@@ -9,7 +9,7 @@
 ![Capstone_Screenshot_3000](Capstone_Screenshot_3000.jpg)
 
 #### Dataset source
-Filename: Women's Soccer Participation in High Schools
+Filename: Women's Soccer Participation in High Schools \
 File type: CSV
 Column: 8
 Rows: 55,136

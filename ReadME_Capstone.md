@@ -46,28 +46,20 @@ It is an accessible sport for a wide spectrum of impairment and disability, and 
 ---
 
 #### Find Me
-- LinkedIn: www.linkedin.com/in/muhammd-khairi-boyani-10694061
-- Instagram: https://www.instagram.com/mikistudio21/
+- [LinkedIn](www.linkedin.com/in/muhammd-khairi-boyani-10694061)
+- [Instagram](https://www.instagram.com/mikistudio21/)
 
 ---
 
 #### Useful links for Adapted Soccer, USA:
-- American Amputee Soccer Association
-http://www.ampsoccer.org/
-- Celebral Palsy Sport Frame Football
-http://www.cpsport.org/sports/football/frame-football/
-- Celebral Palsy Soccer
-https://www.cpsoccer.us/
-- Dwarf Athletic Association of America (DAAA)
-http://www.daaa.org/
-- Special Olympics Soccer
-http://resources.specialolympics.org/Taxonomy/Sports_Essentials/_Sports_Info/Football.aspx
-- United States Power Soccer
-https://www.powersoccerusa.org/
-- U.S. Association of Blind Athletes
-https://www.usaba.org/
-- USA Deaf Soccer Association
-https://usdeafsoccer.com/
+- [American Amputee Soccer Association](http://www.ampsoccer.org/)
+- [Celebral Palsy Sport Frame Football](http://www.cpsport.org/sports/football/frame-football/)
+- [Celebral Palsy Soccer](https://www.cpsoccer.us/)
+- [Dwarf Athletic Association of America (DAAA)](http://www.daaa.org/)
+- [Special Olympics Soccer](http://resources.specialolympics.org/Taxonomy/Sports_Essentials/_Sports_Info/Football.aspx)
+- [United States Power Soccer](https://www.powersoccerusa.org/)
+- [U.S. Association of Blind Athletes](https://www.usaba.org/)
+- [USA Deaf Soccer Association](https://usdeafsoccer.com/)
 
 #### Image Credits:
 - Jeffrey F Lin by Unsplash

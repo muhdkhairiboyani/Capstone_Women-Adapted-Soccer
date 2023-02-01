@@ -5,5 +5,5 @@ This dataset is presented as a "Infographic Dashboard" which focuses on high-sch
 For full info: [ReadME_Capstone.md](https://github.com/muhdkhairiboyani/Capstone_Women-Adapted-Soccer/blob/main/ReadME_Capstone.md) \
 Dashboard: [Capstone_Women-Adapted-Soccer.xlsx](https://github.com/muhdkhairiboyani/Capstone_Women-Adapted-Soccer/blob/main/Capstone_Women-Adapted-Soccer.xlsx)
 ***
-![Capstone_Screenshot_3000](Capstone_Screenshot_3000.jpg)
+
 

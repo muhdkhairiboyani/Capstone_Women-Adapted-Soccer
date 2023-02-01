@@ -6,7 +6,7 @@
 ---
 ---
 #### Dashboard Screenshot
-
+![Capstone_Screenshot_3000](Capstone_Screenshot_3000.jpg)
 
 #### Dataset source
 Filename: Women's Soccer Participation in High Schools \

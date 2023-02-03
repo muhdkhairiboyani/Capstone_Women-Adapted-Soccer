@@ -46,7 +46,8 @@ It is an accessible sport for a wide spectrum of impairment and disability, and 
 ---
 
 #### Find Me
-- [LinkedIn](www.linkedin.com/in/muhammd-khairi-boyani-10694061)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-khairi-boyani-10694061)
+-
 - [Instagram](https://www.instagram.com/mikistudio21/)
 
 ---
